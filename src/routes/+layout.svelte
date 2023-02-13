@@ -54,3 +54,5 @@
 		});
 	</script>
 </svelte:head>
+
+<slot />
